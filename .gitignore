@@ -1,5 +1,7 @@
 data/
+feature_maps/
 
 .ipynb_checkpoints/
 
-resnet18_feature_maps
+best_model
+models/
